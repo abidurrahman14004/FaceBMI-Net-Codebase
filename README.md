@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10.0+-green.svg)](https://mediapipe.dev/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 FaceBMI-Net is a comprehensive deep learning pipeline designed to predict Body Mass Index (BMI) directly from facial images. By leveraging advanced computer vision techniques like facial landmark detection and geometric feature engineering, the system achieves robust performance across diverse datasets.
 
@@ -98,8 +98,6 @@ The model evaluates prediction accuracy using:
 
 ---
 
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🤝 Acknowledgments
 - Inspired by research in physiological attribute estimation from visual data.
